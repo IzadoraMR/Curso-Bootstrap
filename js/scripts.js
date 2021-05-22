@@ -94,7 +94,7 @@ $(document).ready(function() {
         $('#data-area').parallax({ imageSrc: 'img/cidadeparallax.png' });
         $('#apply-area').parallax({ imageSrc: 'img/pattern.png' });
 
-    }, 250);
+    }, 200);
     // Filtro portifólio
     $('.filter-btn').on('click', function() {
 
